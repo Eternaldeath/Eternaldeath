@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eternaldeath
 - 👀 I’m interested in font-end,go and blockchain
-- 🌱 I’m currently a student
+- 🌱 I’m currently a blockchain graduate student
 
 <!---
 Eternaldeath/Eternaldeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
