@@ -3,7 +3,7 @@ Eternaldeath/Eternaldeath is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hello 👋, I'm Eternaldeath</h1>
-<h3 align="center">A blockchain graduate student from China</h3>
+<h3 align="center">A blockchain graduate student</h3>
 
 - 👋 Hi, I’m @Eternaldeath
 - 👀 I’m interested in font-end, go and blockchain
