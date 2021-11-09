@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 - if you want some blockchain material, you can find it in [blockchain-home](https://github.com/Eternaldeath/blockchainHome)
-- and this is my blog [https://blog.csdn.net/qq_34902437](https://blog.csdn.net/qq_34902437)
+- and this is my blog [CSDN](https://blog.csdn.net/qq_34902437)
 - also, you can contact me at **morningstar1001@163.com**
 
 
