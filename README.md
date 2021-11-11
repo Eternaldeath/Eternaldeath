@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently a blockchain graduate student
 <br/>
 
-- if you want some blockchain material, you can find it in [blockchain-home](https://github.com/Eternaldeath/blockchainHome)
+- if you want some blockchain materials, you can find them in [blockchain-home](https://github.com/Eternaldeath/blockchainHome)(Now, it's only support Simplified Chinese)
 - and this is my blog [CSDN](https://blog.csdn.net/qq_34902437)
-- also, you can contact me at **morningstar1001@163.com**
+- also, you can contact me by **morningstar1001@163.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
