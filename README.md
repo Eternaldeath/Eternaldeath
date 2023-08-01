@@ -10,10 +10,11 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently a blockchain graduate student
 <br/>
 
-- if you want some blockchain materials, you can find them in [blockchain-home](https://github.com/Eternaldeath/blockchainHome) (Now, it's only support Simplified Chinese)
-- I also established a repository to collect various AI tools, which is here [AI Product Home](https://github.com/Eternaldeath/AIProductHome)
-- and this is my [blog](https://blog.csdn.net/qq_34902437) on CSDN
-- also, you can contact me by **morningstar1001@163.com**
+- If you want some blockchain materials, you can find them in [blockchain-home](https://github.com/Eternaldeath/blockchainHome) .
+- Also, I established a repository to collect various AI tools, which is here [AI Product Home](https://github.com/Eternaldeath/AIProductHome).
+- I am writing a [blog](https://blog.csdn.net/qq_34902437) on CSDN.
+- And I also write some articles about blockchain on [ZhiHu](https://www.zhihu.com/people/network-34).
+- also, you can contact me by **morningstar1001@163.com**.
 
 
 <h3 align="left">Languages and Tools:</h3>
