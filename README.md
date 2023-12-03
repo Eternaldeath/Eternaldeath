@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A blockchain graduate student</h3>
 
 - 👋 Hi, I’m @Eternaldeath
-- 👀 I’m interested in C\C++, Font_End, Go, and blockchain
+- 👀 I’m interested in C\C++, Font_End, Go, and Blockchain
 - 🌱 I’m currently a blockchain graduate student
 <br/>
 
