@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - If you want some blockchain materials, you can find them in [blockchain-home](https://github.com/Eternaldeath/blockchainHome) .
 - Also, I established a repository to collect various AI tools, which is here [AI Product Home](https://github.com/Eternaldeath/AIProductHome).
 - I am writing a [blog](https://blog.csdn.net/qq_34902437) on CSDN.
-- And I also write some articles about blockchain on [ZhiHu](https://www.zhihu.com/people/network-34).
+- And I also write some articles about blockchain and research on [ZhiHu](https://www.zhihu.com/people/network-34).
 - also, you can contact me by **morningstar1001@163.com**.
 
 
