@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I am passionate about industry, quants, blockchain and AI
 <br/>
 
+- Now you can find me on [Linktree](https://linktr.ee/Codmn_Artist)
 - If you want some blockchain materials, you can find them in [blockchain-home](https://github.com/Eternaldeath/blockchainHome) .
 - Also, I established a repository to collect various AI tools, which is here [AI Product Home](https://github.com/Eternaldeath/AIProductHome).
 - I am writing a blog on [CSDN](https://blog.csdn.net/qq_34902437) and [博客园](https://www.cnblogs.com/comefuture).
