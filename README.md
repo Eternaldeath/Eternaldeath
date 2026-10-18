@@ -3,11 +3,11 @@ Eternaldeath/Eternaldeath is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hello 👋, I'm Codmn Artist</h1>
-<h3 align="center">A Software Development Engineer</h3>
+<h3 align="center">An Embedded Software Development Engineer</h3>
 
 - 👋 Hi, I’m @Eternaldeath
 - 👀 I use C/C++, Python, JavaScript as common development languages
-- 🌱 I am passionate about industry, quants, blockchain and AI
+- 🌱 I am passionate about chips, AI, the industrial internet, and blockchain
 <br/>
 
 - Now you can find me on [Linktree](https://linktr.ee/Codmn_Artist).
